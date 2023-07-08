@@ -6,7 +6,7 @@ My solution of the Evenly developer challenge.
 
 ## Installation
 
-1. Clone the repository
+1. Clone the repository & open the project in Xcode
 2. Navigate to `Product` > `Scheme` > `Edit Scheme...` > `Run` > `Arguments`
 3. Create an environment variable called `apiKey` and paste your **Foursquare Places API key**. (To quickly test the App on an external device, temporally specify the API key in the `AppConfig.swift` file)
 4. Run the App
