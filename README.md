@@ -14,6 +14,9 @@ My solution of the Evenly developer challenge.
 ## Usage
 The App consists of a Map View and a List View that both show locations around the Evenly HQ. Tap on a map pin or a list item to get more info about a location.
 
+## Tests
+The project includes a function to test a successful API call.
+
 ## ToDo
 - Fix flickering map annotations
 - implement category icons
