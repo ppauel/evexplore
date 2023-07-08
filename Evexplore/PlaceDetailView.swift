@@ -1,5 +1,5 @@
 //
-//  MapDetailView.swift
+//  PlaceDetailView.swift
 //  Evexplore
 //
 //  Created by Paul on 26.06.23.
