@@ -4,6 +4,8 @@ My solution of the Evenly developer challenge.
 
 **Task:** Implement a small application that allows the user to browse the locations around the Evenly HQ using the Foursquare Places API.
 
+This is my first actual Swift project. Since I worked a lot with React & JavaScript before, I initially wanted to make the app in React Native, but then decided to go with Swift to gain new experience.
+
 ## Installation
 
 1. Clone the repository & open the project in Xcode
@@ -27,7 +29,7 @@ Minimum Deployments
 - macOS 13.0
 
 ## Draft & Development
-I created mock-up of each view of the App in the design tool Figma, which I also used for the App Icon. The final App was then made in SwiftUI without third party modules.
+I created mock-up of each view of the App in the design tool Figma, which I also used for the App Icon. The final App was then made in SwiftUI without third party modules. 
 
 ![App Layout](https://github.com/ppauel/evexplore/assets/82803315/fc3c3d1b-4481-493e-87cb-bbef138f8cc8)
 
